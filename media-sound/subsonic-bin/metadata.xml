@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pkgmetadata>
+	<maintainer type="person">
+		<email>wuseman@nr1.nu</email>
+		<name>wuseman</name>
+	</maintainer>
+	<upstream>
+		<remote-id type="sourceforge">subsonic</remote-id>
+	</upstream>
+</pkgmetadata>

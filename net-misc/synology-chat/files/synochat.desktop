@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Synology Chat
+Comment=Chat application is the desktop client software of Synology Chat.
+Exec="/opt/Synology Chat/synochat" %U
+Categories=Internet;
+Terminal=false
+Categories=Network;
+Icon=synochat
+

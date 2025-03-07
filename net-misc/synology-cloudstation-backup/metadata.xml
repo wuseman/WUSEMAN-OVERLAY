@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="project">
+    <email>wuseman@nr1.nu</email>
+    <name>Synology Cloudstation Backup</name>
+  </maintainer>
+  <longdescription>
+Cloud Station Backup is a backup service that allows you to back up your files from multiple client computers to a centralized Synology product. Before backing up files on your client computers, Cloud Station Server package is 
+required to be installed on the host Synology product, and Cloud Station Backup (available at Synology's Download Center) has to be installed on each client computer you want to back up from.
+  </longdescription>
+</pkgmetadata>

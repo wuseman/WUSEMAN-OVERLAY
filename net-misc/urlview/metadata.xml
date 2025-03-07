@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>wuseman@nr1.nu</email>
+	</maintainer>
+	<longdescription>
+			urlview is a curses program for extracting URLs from text files and displaying a menu from whch you con select a specific URL to view using your favorite browser program.
+	</longdescription>
+</pkgmetadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="project">
+    <email>wuseman@nr1.nu</email>
+    <name>Synology Note Station</name>
+  </maintainer>
+  <longdescription>
+Note Station for desktop connects you with Note Station on your Synology NAS. You can manage all the notes/to-do list offline, right from your local computer.
+  </longdescription>
+</pkgmetadata>
